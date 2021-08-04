@@ -1,4 +1,4 @@
-package Synchronized;
+package com.metehansaka.multithreading;
 
 public class Functions {
     int count = 0;

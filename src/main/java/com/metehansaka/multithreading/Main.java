@@ -1,4 +1,4 @@
-package Synchronized;
+package com.metehansaka.multithreading;
 
 public class Main {
     public static void main(String[] args) {

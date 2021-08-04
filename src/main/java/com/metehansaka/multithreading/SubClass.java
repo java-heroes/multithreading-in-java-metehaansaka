@@ -1,4 +1,4 @@
-package Synchronized;
+package com.metehansaka.multithreading;
 
 public class SubClass extends Thread{
     Functions functions = new Functions();
